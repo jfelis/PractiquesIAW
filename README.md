@@ -5,5 +5,5 @@
 ### Primera prova
 [Pagina de google](https://www.google.com)
 Incluye a continuación tu nombre y apellidos:
-** Juanjo Felis Grau **
+** Alex Lloret Rocher **
 * Curs 26/27 *
