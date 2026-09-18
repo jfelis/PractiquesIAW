@@ -5,5 +5,5 @@
 ### Primera prova
 [Pagina de google](https://www.google.com)
 Incluye a continuación tu nombre y apellidos:
-** Juanjo Felis Grau **
+** Adrià Ferrando Bertomeu **
 * Curs 26/27 *
